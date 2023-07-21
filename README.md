@@ -6,7 +6,7 @@ HW2 - Model Selection <br />
 HW3 - Regression <br />
 <br />
 Overall the course included the following topics: <br />
-Supervised Learning - Classification, SVM, Kernels, Regression, Bagging and boosting, Deep learning. <br />
+Supervised Learning - Classification, SVM, kernels, regression, bagging and boosting, deep learning. <br />
 Aspects of learning - Generalization, Model selection, Optimization. <br />
 Beyond supervised learning - Dimensionality reduction, PCA, autoencoders, manifold learning. <br />
 Other types of learning -  Multiclass classification, semi-supervised and self-supervised learning.
